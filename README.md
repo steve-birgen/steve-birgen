@@ -1,16 +1,23 @@
-## Hi there 👋
+# Steve Birgen
 
-<!--
-**steve-birgen/steve-birgen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Mobile & Full-Stack Developer** — Android (Kotlin) · React · TypeScript · Node.js · Firebase
 
-Here are some ideas to get you started:
+I build real-time, offline-friendly applications across mobile and web. Currently IT Systems Administrator at a multi-site institution, where I build internal tools that are in active daily use.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured Projects
+
+| Project | Stack | Description |
+|---|---|---|
+| [pdf-studio](https://github.com/steve-birgen/pdf-studio) | React · pdf-lib · pdf.js | 8-tool browser-based PDF editor, 100% client-side |
+| [budget-app](https://github.com/steve-birgen/budget-app) | Kotlin · Compose · Room · WorkManager | Offline-first personal finance app with background alerts |
+| [storage-detective](https://github.com/steve-birgen/storage-detective) | Kotlin · Compose · Coroutines | Android storage analyzer with SHA-256 duplicate detection |
+| requisition-app *(private)* | React · Firebase · Firestore · reactfire | Real-time requisition workflow replacing paper approvals |
+
+## Tech
+
+**Mobile:** Kotlin · Jetpack Compose · Room · WorkManager · Coroutines · StateFlow
+**Frontend:** React · TypeScript · JavaScript · Tailwind · Recharts
+**Backend:** Node.js · Express · Firebase (Auth, Firestore) · REST APIs
+**Tools:** Docker · Nginx · Git · Linux · Windows Server
+
+📫 sbrigen8@gmail.com · [LinkedIn](https://linkedin.com/in/steve-birgen-86a073272)
